@@ -48,7 +48,7 @@ order by
 
 -- DATETRUNC funtion
 
-/*Theek hai, DATE_TRUNC function SQL mein kisi date value ko ek specific interval tak chota karne ke liye use hota hai,
+/* DATE_TRUNC function SQL mein kisi date value ko ek specific interval tak chota karne ke liye use hota hai,
 jaise ki mahine ki shuruaat ya saal ki shuruaat Yeh date ke un parts ko default value par set kar deta hai jo specified interval se chote hain. 
 For example, agar aap DATE_TRUNC('month', order_date) use karte hain, 
 toh yeh ek mahine ke andar sabhi dates ko us mahine ki pehli tarikh par set kar dega. same saal ke liye bhi*/
