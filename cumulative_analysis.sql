@@ -1,3 +1,4 @@
+--cumulative_analysis
 select 
 	total_sales,
 	Order_month,
