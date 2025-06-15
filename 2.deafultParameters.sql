@@ -2,6 +2,7 @@
 alter procedure getcustomersummary  
 
 @Counrty nvarchar(50) ='United States' -- United States as default parameter
+-- @Counrty nvarchar(50) with parameter
 as
 begin
 select 
